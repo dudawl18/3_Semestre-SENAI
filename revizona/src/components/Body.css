@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+.content-body {
+    min-height: calc(100vh - 60px);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(73, 83, 73);
+    color: beige;
+
+}
+
+.titulo-body {
+    font-family: 'Lora';
+}
+
+.gato-imagem {
+    width: 400px;
+    height: 400px;
+}
